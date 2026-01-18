@@ -276,7 +276,7 @@ def is_point_in_radius(lat1, lon1, lat2, lon2, radius):
 
 ##### Поиск сообщения по указанным параметрам
 
-![Сообщение](./screenshots/c4.PNG)
+![Сообщение](screenshots/с4.PNG)
 
 
 

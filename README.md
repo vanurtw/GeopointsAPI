@@ -104,6 +104,8 @@ GET|/points/messages/search/|Поиск сообщений в радиусе|✅
 
 *В setting.py можно настроить время жизни каждого токена, а так же имя загооловка передаваемого в Authorization*
 
+[Файл конфигурации](geopoints-docker/geopoints/api_auth/services.py)
+
 #### Свой бэкэнд аутентификации django
 ```python
 class AuthenticationJWT(authentication.BaseAuthentication):
@@ -137,7 +139,7 @@ class AuthenticationJWT(authentication.BaseAuthentication):
 
 #### Сервис по созданию пары токенов access и refresh
 
-[services.py](geopoints-docker/geopoints/api_auth/services.py)
+
 
 
 

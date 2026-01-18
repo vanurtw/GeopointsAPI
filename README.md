@@ -160,10 +160,10 @@ class AuthenticationJWT(authentication.BaseAuthentication):
 ![Токен](./screenshots/а5.PNG)
 
 ##### Успешное обновление пары токенов
-![Токен](./screenshots/а6.PNG)
+![Токен](./screenshots/a6.PNG)
 
 ##### Обновление токенов с невалидным refresh токеном
-![Токен](./screenshots/а7.PNG)
+![Токен](./screenshots/a7.PNG)
 
 ## 🗺️ Работа с точками
 

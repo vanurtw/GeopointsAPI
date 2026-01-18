@@ -59,7 +59,7 @@
 
 ### 3. Запустите проект через Dcoker
 
-Запуск всех контейнеров: ```dcocker compose up --build```
+Запуск всех контейнеров: ```docker compose up --build```
 
 Примените миграции: ```docker-compose exec geopoints python manage.py migrate```
 

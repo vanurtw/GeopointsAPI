@@ -264,7 +264,7 @@ def is_point_in_radius(lat1, lon1, lat2, lon2, radius):
 
 ##### Список всех сообщений пользователя
 
-![Сообщение](./screenshots/c1.PNG)
+![Сообщение](screenshots/с1.PNG)
 
 ##### Создания сообщения к точке
 
@@ -272,7 +272,7 @@ def is_point_in_radius(lat1, lon1, lat2, lon2, radius):
 
 ##### Создание сообщения к точке с невалидными данными
 
-![Сообщение](./screenshots/c3.PNG)
+![Сообщение](screenshots/с3.PNG)
 
 ##### Поиск сообщения по указанным параметрам
 

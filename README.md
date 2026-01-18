@@ -50,12 +50,12 @@
 
 Добавте в него переменные среды:
 
-*DB_NAME=DB_NAME*
-*DB_USER=DB_USER*
-*DB_PASSWORD=DB_PASSWROD*
-*DB_HOST=dbps* ***# Закоментировать для запуска вне докера***
-*DB_PORT=5432*
-*SECRET_KEY=SEKRET_KEY*
+- *DB_NAME=DB_NAME*
+- *DB_USER=DB_USER*
+- *DB_PASSWORD=DB_PASSWROD*
+- *DB_HOST=dbps* ***# Закоментировать для запуска вне докера***
+- *DB_PORT=5432*
+- *SECRET_KEY=SEKRET_KEY*
 
 ### 3. Запустите проект через Dcoker
 

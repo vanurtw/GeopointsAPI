@@ -144,8 +144,7 @@ class AuthenticationJWT(authentication.BaseAuthentication):
 #### Регистрация пользователя
 
 ##### Запрос с пустым телом запроса
-
-https://github.com/vanurtw/GeopointsAPI/blob/main/screenshots/%D0%B01.PNG
+![Запрос с пустым телом](./screenshots/а1.PNG)
 ##### Запрос на регистрацию с невалидными данными
 a2
 ##### Успешная регистрация пользователя
